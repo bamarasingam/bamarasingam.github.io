@@ -291,7 +291,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With love for developing cool stuff, I love to write and teach others what I have learnt.",
+    "",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   display: true // Set false to hide this section, defaults to true
 };
@@ -340,8 +340,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: `
-  Discuss a project or just want to say hi? My Inbox is open for all
-  bamarasingam@gmail.com
+  Discuss a project or just want to say hi? My Inbox is open for all: bamarasingam@gmail.com
   `,
   number: "",
   email_address: "bamarasingam@gmail.com"
