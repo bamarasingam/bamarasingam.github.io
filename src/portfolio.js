@@ -339,8 +339,10 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle: `
+  Discuss a project or just want to say hi? My Inbox is open for all
+  bamarasingam@gmail.com
+  `,
   number: "",
   email_address: "bamarasingam@gmail.com"
 };
