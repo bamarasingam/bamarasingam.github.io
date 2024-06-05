@@ -171,14 +171,14 @@ const workExperiences = {
       ]
     },
     {
-      role: "Digital Assets Investor and Trader",
-      company: "Henowick Holdings",
-      companylogo: require("./assets/images/hh.png"),
-      date: "Aug 2021 – April 2023",
+      role: "DeFi Analyst",
+      company: "Fantom Digital",
+      companylogo: require("./assets/images/fantomdigital.png"),
+      date: "May 2021 – July 2023",
       descBullets: [ 
-        "Engaged in various activities to profit from digital assets including trading, staking, yield farming",
-        "Implemented effective risk management techniques to mitigate potential losses and maximize profits",
-        "Tracked and analyzed market data, utilized technical analysis tools, and made informed decisions to optimize investment outcomes"
+        "Helped scale the startup to over $3M+ in revenue through strategic growth and marketing",
+        "Managed performance and risk assessments of DeFi projects to facilitate secure investments",
+        "Collaborated w/cross-functional teams to ensure the design and delivery of performant, scalable apps"
       ]
     }
   ]
