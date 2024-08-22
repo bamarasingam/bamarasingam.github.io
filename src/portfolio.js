@@ -152,7 +152,7 @@ const workExperiences = {
       role: "Machine Learning Engineer / Technical Advisor",
       company: "Laughpad",
       companylogo: require("./assets/images/Laughpad.png"),
-      date: "Jan 2024 – Present",
+      date: "Sep 2023 – Present",
       /*desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",*/
       descBullets: [
         "Developed a laughter recognition model with PyTorch, using three open-source datasets for training",
@@ -171,7 +171,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "DeFi Analyst",
+      role: "Research Analyst",
       company: "Fantom Digital",
       companylogo: require("./assets/images/fantomdigital.png"),
       date: "May 2021 – July 2023",
