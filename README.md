@@ -1,1 +1,0 @@
-# bamarasingam.github.io
